@@ -1,3 +1,6 @@
+The Chronographer Archives is a collaborative open Worldbuilding project containing the documented worlds that the Chronographers have documented. The most significant documented things being A'elna and the Weavers. 
+
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
